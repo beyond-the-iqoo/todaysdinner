@@ -7,3 +7,8 @@ git checkout <branch name>
 現在のbranchを変更
 
 これでadd,commit,pushすれば別ブランチが表示されるはず？
+
+----
+
+git push origin <branch name>
+でブランチを指定しないとだめ？checkoutがよくわからん?
