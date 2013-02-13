@@ -1,0 +1,9 @@
+branchに関するテスト
+
+git branch <branch name>
+ブランチを作成
+
+git checkout <branch name>
+現在のbranchを変更
+
+これでadd,commit,pushすれば別ブランチが表示されるはず？
