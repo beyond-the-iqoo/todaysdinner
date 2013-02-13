@@ -12,3 +12,4 @@ git checkout <branch name>
 
 git push origin <branch name>
 でブランチを指定しないとだめ？checkoutがよくわからん?
+ -> git push origin <branch name>は最初だけでイイっぽい
